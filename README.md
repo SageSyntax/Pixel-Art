@@ -1,6 +1,6 @@
 # **Pixel Art Generator**
-## Result :
+## Live Result :
 > https://sagesyntax.github.io/Pixel-Art/
 
-## View :
+## View Result :
 ![result](https://github.com/SageSyntax/Pixel-Art/blob/main/result.png)
